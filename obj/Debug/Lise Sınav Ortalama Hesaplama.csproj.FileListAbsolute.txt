@@ -1,0 +1,11 @@
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Lise Sınav Ortalama Hesaplama\Lise Sınav Ortalama Hesaplama\bin\Debug\Lise Sınav Ortalama Hesaplama.exe.config
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Lise Sınav Ortalama Hesaplama\Lise Sınav Ortalama Hesaplama\bin\Debug\Lise Sınav Ortalama Hesaplama.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Lise Sınav Ortalama Hesaplama\Lise Sınav Ortalama Hesaplama\bin\Debug\Lise Sınav Ortalama Hesaplama.pdb
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Lise Sınav Ortalama Hesaplama\Lise Sınav Ortalama Hesaplama\obj\Debug\Lise Sınav Ortalama Hesaplama.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Lise Sınav Ortalama Hesaplama\Lise Sınav Ortalama Hesaplama\obj\Debug\Lise Sınav Ortalama Hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Lise Sınav Ortalama Hesaplama\Lise Sınav Ortalama Hesaplama\obj\Debug\Lise_Sınav_Ortalama_Hesaplama.Form1.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Lise Sınav Ortalama Hesaplama\Lise Sınav Ortalama Hesaplama\obj\Debug\Lise_Sınav_Ortalama_Hesaplama.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Lise Sınav Ortalama Hesaplama\Lise Sınav Ortalama Hesaplama\obj\Debug\Lise Sınav Ortalama Hesaplama.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Lise Sınav Ortalama Hesaplama\Lise Sınav Ortalama Hesaplama\obj\Debug\Lise Sınav Ortalama Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Lise Sınav Ortalama Hesaplama\Lise Sınav Ortalama Hesaplama\obj\Debug\Lise Sınav Ortalama Hesaplama.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Lise Sınav Ortalama Hesaplama\Lise Sınav Ortalama Hesaplama\obj\Debug\Lise Sınav Ortalama Hesaplama.pdb
